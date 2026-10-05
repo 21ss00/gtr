@@ -1,0 +1,62 @@
+{
+ "chorus": {
+  "file": "TC Electronic Corona Chorus Pedal (cropped).jpg",
+  "author": "Guitar Chalk",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:TC_Electronic_Corona_Chorus_Pedal_%28cropped%29.jpg"
+ },
+ "delay": {
+  "file": "MXR effect pedals 1 - Carbon Copy analog delay (cropped).jpg",
+  "author": "Matt's_Pedals.jpg: Roadside Guitars\nderivative work: MXR effect pedals 1.png: Guitarpop\nderivative work: Clusternote (talk)",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:MXR_effect_pedals_1_-_Carbon_Copy_analog_delay_%28cropped%29.jpg"
+ },
+ "compressor": {
+  "file": "Boss CS-3 Compression Sustainer.jpg",
+  "author": "Kuriosatempel",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boss_CS-3_Compression_Sustainer.jpg"
+ },
+ "eq": {
+  "file": "Boss GE-7 Equalizer.jpg",
+  "author": "Kuriosatempel",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boss_GE-7_Equalizer.jpg"
+ },
+ "tremolo": {
+  "file": "Boss TR-2 Tremolo.jpg",
+  "author": "Kuriosatempel",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boss_TR-2_Tremolo.jpg"
+ },
+ "gate": {
+  "file": "Boss NS-2 Noise Suppressor.jpg",
+  "author": "Kuriosatempel",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boss_NS-2_Noise_Suppressor.jpg"
+ },
+ "phaser": {
+  "file": "MXR M-101 Phase 90 modified.jpg",
+  "author": "Roadside Guitars",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:MXR_M-101_Phase_90_modified.jpg"
+ },
+ "overdrive": {
+  "file": "Boss SD-1 Super Overdrive.jpg",
+  "author": "Kuriosatempel",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boss_SD-1_Super_Overdrive.jpg"
+ },
+ "distortion": {
+  "file": "DS 1 Distortion.jpg",
+  "author": "User:Surachit",
+  "license": "CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:DS_1_Distortion.jpg"
+ },
+ "metal": {
+  "file": "Boss HM-2 Heavy Metal.jpg",
+  "author": "Styroks",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Boss_HM-2_Heavy_Metal.jpg"
+ }
+}
